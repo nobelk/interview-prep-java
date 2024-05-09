@@ -2,6 +2,8 @@ package nobel.khandaker.misc;
 
 public class AddTwoNumbersUsingLinkedList {
 
+    public record Test (int a){}
+
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2){
         int carry = 0;
         int sum = 0;
