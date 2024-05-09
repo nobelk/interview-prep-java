@@ -1,6 +1,6 @@
 package nobel.khandaker;
 
-import nobel.khandaker.LongestCommonPrefix;
+import nobel.khandaker.misc.LongestCommonPrefix;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

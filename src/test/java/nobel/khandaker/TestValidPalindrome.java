@@ -1,6 +1,6 @@
 package nobel.khandaker;
 
-import nobel.khandaker.ValidPalindrome;
+import nobel.khandaker.misc.ValidPalindrome;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;

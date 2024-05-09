@@ -1,6 +1,6 @@
 package nobel.khandaker;
 
-import nobel.khandaker.StringToInteger;
+import nobel.khandaker.misc.StringToInteger;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

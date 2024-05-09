@@ -1,6 +1,6 @@
 package nobel.khandaker;
 
-import nobel.khandaker.ContainsDuplicate;
+import nobel.khandaker.misc.ContainsDuplicate;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;

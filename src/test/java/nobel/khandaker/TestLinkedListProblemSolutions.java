@@ -1,7 +1,7 @@
 package nobel.khandaker;
 
-import nobel.khandaker.LinkedListProblemSolutions;
-import nobel.khandaker.ListNode;
+import nobel.khandaker.misc.LinkedListProblemSolutions;
+import nobel.khandaker.misc.ListNode;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

@@ -1,6 +1,6 @@
 package nobel.khandaker;
 
-import nobel.khandaker.PlusOne;
+import nobel.khandaker.misc.PlusOne;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;

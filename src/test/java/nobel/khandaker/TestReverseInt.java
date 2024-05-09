@@ -1,6 +1,6 @@
 package nobel.khandaker;
 
-import nobel.khandaker.ReverseInt;
+import nobel.khandaker.misc.ReverseInt;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;

@@ -1,6 +1,6 @@
 package nobel.khandaker;
 
-import nobel.khandaker.BestTimeToBuyAndSellStockII;
+import nobel.khandaker.misc.BestTimeToBuyAndSellStockII;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

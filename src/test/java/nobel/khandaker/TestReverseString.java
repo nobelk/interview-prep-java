@@ -1,6 +1,6 @@
 package nobel.khandaker;
 
-import nobel.khandaker.ReverseString;
+import nobel.khandaker.misc.ReverseString;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;

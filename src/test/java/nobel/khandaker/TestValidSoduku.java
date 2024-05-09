@@ -1,6 +1,6 @@
 package nobel.khandaker;
 
-import nobel.khandaker.ValidSoduku;
+import nobel.khandaker.misc.ValidSoduku;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;

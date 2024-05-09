@@ -1,6 +1,6 @@
 package nobel.khandaker;
 
-import nobel.khandaker.IntersectionOfTwoArraysII;
+import nobel.khandaker.misc.IntersectionOfTwoArraysII;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;

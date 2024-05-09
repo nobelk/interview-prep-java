@@ -1,6 +1,6 @@
 package nobel.khandaker;
 
-import nobel.khandaker.ValidAnagram;
+import nobel.khandaker.misc.ValidAnagram;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;

@@ -1,6 +1,6 @@
 package nobel.khandaker;
 
-import nobel.khandaker.NeedleInHaystack;
+import nobel.khandaker.misc.NeedleInHaystack;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

@@ -1,6 +1,6 @@
 package nobel.khandaker;
 
-import nobel.khandaker.FirstNonRepeatingChar;
+import nobel.khandaker.misc.FirstNonRepeatingChar;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;

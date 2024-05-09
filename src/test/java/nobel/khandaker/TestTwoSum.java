@@ -1,6 +1,6 @@
 package nobel.khandaker;
 
-import nobel.khandaker.TwoSum;
+import nobel.khandaker.misc.TwoSum;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
